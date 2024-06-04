@@ -29,7 +29,7 @@ public class checkPatientWithId_6 {
             }
         }
 
-        Assert.assertTrue("patient is not found",bln);
+        Assert.assertTrue("patient found",bln);
 
 
     }
